@@ -149,6 +149,7 @@ activemq-data/
 
 # Environments
 **/.env
+automating_email/.env
 .env
 .envrc
 .venv
